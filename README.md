@@ -103,6 +103,21 @@ npm start
 PORT=8000
 MONGODB_URI=your_mongodb_connection_string
 
+## 📸 Screenshots
+
+### Landing Page
+![Landing Page](./screenshots/01-landing-page.png)
+
+### Login Page
+![Login Page](./screenshots/02-login-page.png)
+
+### Home Page
+![Home Page](./screenshots/03-home-page.png)
+
+### videocall page
+![Meeting Room](./screenshots/04-videocallpage.png)
+
+
 👨‍💻 Author
 Ashish Rana
 Computer Science Engineering Student
